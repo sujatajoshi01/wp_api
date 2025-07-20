@@ -22,6 +22,52 @@
         "hello","hi"
       ],
       "hasChildren": false
+    },
+     {
+      "name": "Ganesha Wallpapers",
+      "description": "Divine and spiritual wallpapers",
+      "imageUrl":
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
+      "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
+     "images": [
+  "https://wallpapercave.com/wp/wp2991963.jpg",
+  "https://wallpapercave.com/wp/wp2992023.jpg",
+  "https://wallpapercave.com/wp/wp2991922.jpg",
+  "https://wallpapercave.com/wp/wp2991850.jpg",
+  "https://wallpapercave.com/wp/wp2992015.jpg",
+  "https://wallpapercave.com/wp/wp2991886.jpg",
+  "https://wallpapercave.com/wp/wp2991979.jpg",
+  "https://wallpapercave.com/wp/wp2991849.jpg",
+  "https://wallpapercave.com/wp/wp2991978.jpg",
+  "https://wallpapercave.com/wp/wp2991802.jpg",
+  "https://wallpapercave.com/wp/wp2991938.jpg",
+  "https://wallpapercave.com/wp/wp2991906.jpg",
+  "https://wallpapercave.com/wp/wp2991909.jpg",
+  "https://wallpapercave.com/wp/wp2991933.jpg",
+  "https://wallpapercave.com/wp/wp1881800.jpg",
+  "https://wallpapercave.com/wp/wp2991932.jpg",
+  "https://wallpapercave.com/wp/wp2991985.jpg",
+  "https://wallpapercave.com/wp/wp2991968.jpg",
+  "https://wallpapercave.com/wp/wp2991931.jpg",
+  "https://wallpapercave.com/wp/wp2991867.jpg",
+  "https://wallpapercave.com/wp/wp2992007.jpg",
+  "https://wallpapercave.com/wp/wp2991970.jpg",
+  "https://wallpapercave.com/wp/wp2991894.jpg",
+  "https://wallpapercave.com/wp/wp2992003.jpg",
+  "https://wallpapercave.com/wp/wp2991898.jpg",
+  "https://wallpapercave.com/wp/wp2991992.jpg",
+  "https://wallpapercave.com/wp/wp2991881.jpg",
+  "https://wallpapercave.com/wp/wp2992012.jpg",
+  "https://wallpapercave.com/wp/wp1850016.jpg",
+  "https://wallpapercave.com/wp/wp2991993.jpg",
+  "https://wallpapercave.com/wp/wp2991976.jpg",
+  "https://wallpapercave.com/wp/wp2991880.jpg",
+  "https://wallpapercave.com/wp/wp2991874.jpg",
+  "https://wallpapercave.com/wp/wp2991801.jpg",
+  "https://wallpapercave.com/wp/wp2991945.jpg",
+  "https://wallpapercave.com/wp/wp2991918.jpg"
+],
+      "hasChildren": false
     }
   ]
 }
