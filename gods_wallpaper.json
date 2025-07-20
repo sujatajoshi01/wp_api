@@ -5,12 +5,38 @@
       "description": "Divine and spiritual wallpapers",
        "imageUrl":
           "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
-     
-               "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
-    "images":[
-        "hello","hi"
-      ],
-      "hasChildren": false
+      "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
+     "images": [
+  "https://wallpapercave.com/wp/wp6083001.jpg",
+  "https://wallpapercave.com/wp/wp6803015.jpg",
+  "https://wallpapercave.com/wp/wp6485353.jpg",
+  "https://wallpapercave.com/wp/wp6047435.jpg",
+  "https://wallpapercave.com/wp/wp4916693.jpg",
+  "https://wallpapercave.com/wp/wp4993908.jpg",
+  "https://wallpapercave.com/wp/wp5885050.jpg",
+  "https://wallpapercave.com/wp/wp6802909.jpg",
+  "https://wallpapercave.com/wp/wp4898376.jpg",
+  "https://wallpapercave.com/wp/wp5511723.jpg",
+  "https://wallpapercave.com/wp/wp5624716.jpg",
+  "https://wallpapercave.com/wp/wp6032814.jpg",
+  "https://wallpapercave.com/wp/wp4415661.jpg",
+  "https://wallpapercave.com/wp/wp4855547.jpg",
+  "https://wallpapercave.com/wp/wp4916684.jpg",
+  "https://wallpapercave.com/wp/wp6370504.jpg",
+  "https://wallpapercave.com/wp/wp5885034.jpg",
+  "https://wallpapercave.com/wp/wp5699154.jpg",
+  "https://wallpapercave.com/wp/wp4898278.jpg",
+  "https://wallpapercave.com/wp/wp6359588.jpg",
+  "https://wallpapercave.com/wp/wp5797398.jpg",
+  "https://wallpapercave.com/wp/wp5885015.jpg",
+  "https://wallpapercave.com/wp/wp5519737.jpg",
+  "https://wallpapercave.com/wp/wp6852713.jpg",
+  "https://wallpapercave.com/wp/wp5885026.jpg",
+  "https://wallpapercave.com/wp/wp5033108.jpg",
+  "https://wallpapercave.com/wp/wp6231330.jpg",
+  "https://wallpapercave.com/wp/wp5573109.jpg",
+  "https://wallpapercave.com/wp/wp5885023.jpg"
+],
     },
     {
       "name": "God Wallpapers",
@@ -20,8 +46,7 @@
       "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
      "images":[
         "hello","hi"
-      ],
-      "hasChildren": false
+      ]
     },
      {
       "name": "Ganesha Wallpapers",
@@ -66,8 +91,7 @@
   "https://wallpapercave.com/wp/wp2991801.jpg",
   "https://wallpapercave.com/wp/wp2991945.jpg",
   "https://wallpapercave.com/wp/wp2991918.jpg"
-],
-      "hasChildren": false
+]
     }
   ]
 }
