@@ -39,14 +39,38 @@
 ],
     },
     {
-      "name": "God Wallpapers",
+      "name": "Krishna Wallpapers",
       "description": "Divine and spiritual wallpapers",
       "imageUrl":
           "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
       "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
-     "images":[
-        "hello","hi"
-      ]
+    "images": [
+  "https://wallpapercave.com/wp/wp4775411.jpg",
+  "https://wallpapercave.com/wp/wp6698801.jpg",
+  "https://wallpapercave.com/wp/wp6698720.png",
+  "https://wallpapercave.com/wp/wp4775400.jpg",
+  "https://wallpapercave.com/wp/wp6624701.jpg",
+  "https://wallpapercave.com/wp/wp6224220.jpg",
+  "https://wallpapercave.com/wp/wp4861604.jpg",
+  "https://wallpapercave.com/wp/wp6698685.jpg",
+  "https://wallpapercave.com/wp/wp4861617.jpg",
+  "https://wallpapercave.com/wp/wp2639052.jpg",
+  "https://wallpapercave.com/wp/wp6473818.jpg",
+  "https://wallpapercave.com/wp/wp3370321.jpg",
+  "https://wallpapercave.com/wp/wp4887850.jpg",
+  "https://wallpapercave.com/wp/wp5631706.jpg",
+  "https://wallpapercave.com/wp/wp6698791.jpg",
+  "https://wallpapercave.com/wp/wp6624693.jpg",
+  "https://wallpapercave.com/wp/wp5631713.jpg",
+  "https://wallpapercave.com/wp/wp5028623.jpg",
+  "https://wallpapercave.com/wp/wp5570219.jpg",
+  "https://wallpapercave.com/wp/wp5631748.jpg",
+  "https://wallpapercave.com/wp/wp5545643.jpg",
+  "https://wallpapercave.com/wp/wp3370328.jpg",
+  "https://wallpapercave.com/wp/wp5605500.jpg",
+  "https://wallpapercave.com/wp/wp6698771.jpg",
+  "https://wallpapercave.com/wp/wp6698786.jpg"
+],
     },
      {
       "name": "Ganesha Wallpapers",
