@@ -1,5 +1,5 @@
 {
-    {
+"flowers":[    {
       "name": "Flower Wallpaper",
       "description": "Divine and spiritual wallpapers",
        "imageUrl":
@@ -113,5 +113,5 @@
   "https://wallpapercave.com/wp/wp4795666.jpg",
   "https://wallpapercave.com/wp/wp2553986.jpg"
 ]
-    },
+    }]
 }
