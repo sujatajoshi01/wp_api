@@ -120,12 +120,7 @@
        "imageUrl":
           "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
       "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
-    {
-      "name": "Nature Wallpaper",
-      "description": "Divine and spiritual wallpapers",
-       "imageUrl":
-          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
-      "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
+   
    "images": [
   "https://wallpapercave.com/wp/wp11018769.jpg",
   "https://wallpapercave.com/wp/wp10729252.jpg",
