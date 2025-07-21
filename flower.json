@@ -160,5 +160,56 @@
   "https://wallpapercave.com/wp/wp4369990.jpg"
 ]
     
-    }]
+    },
+       {
+      "name": "Goddess Laxmi",
+      "description": "Divine and spiritual wallpapers",
+       "imageUrl":
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
+      "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
+   
+"images": [
+  "https://wallpapercave.com/wp/wp7404993.jpg",
+  "https://wallpapercave.com/wp/wp3248594.jpg",
+  "https://wallpapercave.com/wp/wp4010590.jpg",
+  "https://wallpapercave.com/wp/wp4010621.jpg",
+  "https://wallpapercave.com/wp/wp4010627.jpg",
+  "https://wallpapercave.com/wp/wp4010643.jpg",
+  "https://wallpapercave.com/wp/wp4010671.jpg",
+  "https://wallpapercave.com/wp/wp5579628.jpg",
+  "https://wallpapercave.com/wp/wp6663818.jpg",
+  "https://wallpapercave.com/wp/wp7404908.jpg",
+  "https://wallpapercave.com/wp/wp7404910.jpg",
+  "https://wallpapercave.com/wp/wp7404914.jpg",
+  "https://wallpapercave.com/wp/wp7404915.jpg",
+  "https://wallpapercave.com/wp/wp7404918.jpg",
+  "https://wallpapercave.com/wp/wp7404944.jpg",
+  "https://wallpapercave.com/wp/wp7404948.jpg",
+  "https://wallpapercave.com/wp/wp7404951.jpg",
+  "https://wallpapercave.com/wp/wp7404953.jpg",
+  "https://wallpapercave.com/wp/wp7404980.jpg",
+  "https://wallpapercave.com/wp/wp7404984.jpg",
+  "https://wallpapercave.com/wp/wp7404994.jpg",
+  "https://wallpapercave.com/wp/wp7404995.jpg",
+  "https://wallpapercave.com/wp/wp7404996.jpg",
+  "https://wallpapercave.com/wp/wp7405000.jpg",
+  "https://wallpapercave.com/wp/wp7405005.jpg",
+  "https://wallpapercave.com/wp/wp7404978.jpg",
+  "https://wallpapercave.com/wp/wp4010593.jpg",
+  "https://wallpapercave.com/wp/wp4010616.jpg",
+  "https://wallpapercave.com/wp/wp4010623.jpg",
+  "https://wallpapercave.com/wp/wp4010645.jpg",
+  "https://wallpapercave.com/wp/wp4770541.jpg",
+  "https://wallpapercave.com/wp/wp5487223.jpg",
+  "https://wallpapercave.com/wp/wp6960754.jpg",
+  "https://wallpapercave.com/wp/wp7404932.jpg",
+  "https://wallpapercave.com/wp/wp7404977.jpg",
+  "https://wallpapercave.com/wp/wp7404985.jpg",
+  "https://wallpapercave.com/wp/wp7404987.jpg",
+  "https://wallpapercave.com/wp/wp7405041.jpg"
+]
+    
+    }
+
+]
 }
