@@ -113,7 +113,44 @@
   "https://wallpapercave.com/wp/wp4795666.jpg",
   "https://wallpapercave.com/wp/wp2553986.jpg"
 ]
-    }
+    },
+      "cherryBlossom":[    {
+      "name": "Cherry Blossom",
+      "description": "Divine and spiritual wallpapers",
+       "imageUrl":
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
+      "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
+"images": [
+  "https://wallpapercave.com/wp/wp4464345.jpg",
+  "https://wallpapercave.com/wp/wp4096085.jpg",
+  "https://wallpapercave.com/wp/wp4896290.jpg",
+  "https://wallpapercave.com/wp/wp4896322.jpg",
+  "https://wallpapercave.com/wp/wp4896330.jpg",
+  "https://wallpapercave.com/wp/wp4896260.jpg",
+  "https://wallpapercave.com/wp/wp4896261.jpg",
+  "https://wallpapercave.com/wp/wp4896286.jpg",
+  "https://wallpapercave.com/wp/wp4896275.jpg",
+  "https://wallpapercave.com/wp/wp4896280.jpg",
+  "https://wallpapercave.com/wp/wp4896263.jpg",
+  "https://wallpapercave.com/wp/wp4896273.jpg",
+  "https://wallpapercave.com/wp/wp2600108.jpg",
+  "https://wallpapercave.com/wp/wp4896270.jpg",
+  "https://wallpapercave.com/wp/wp4896306.jpg",
+  "https://wallpapercave.com/wp/wp4896274.jpg",
+  "https://wallpapercave.com/wp/wp4896304.jpg",
+  "https://wallpapercave.com/wp/wp4896267.jpg",
+  "https://wallpapercave.com/wp/wp4736791.jpg",
+  "https://wallpapercave.com/wp/wp4896298.jpg",
+  "https://wallpapercave.com/wp/wp4896266.jpg",
+  "https://wallpapercave.com/wp/wp4896297.jpg",
+  "https://wallpapercave.com/wp/wp4346772.jpg",
+  "https://wallpapercave.com/wp/wp4896314.jpg",
+  "https://wallpapercave.com/wp/wp4896332.jpg",
+  "https://wallpapercave.com/wp/wp3183965.jpg",
+  "https://wallpapercave.com/wp/wp1940260.jpg",
+  "https://wallpapercave.com/wp/uwp4805668.jpeg",
+  "https://wallpapercave.com/wp/uwp4799918.jpeg"
+]},
       
 
 ]
