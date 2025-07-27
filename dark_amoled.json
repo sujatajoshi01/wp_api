@@ -1,8 +1,8 @@
 {
   "amoled":[
     {
-      "name": "Amoled Animal/ Dark Theme",
-      "description": "Divine and spiritual wallpapers",
+      "name": "Amoled Animal",
+      "description": "Animal wallpapers with dark backgrounds",
        "imageUrl":
           "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
       "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
@@ -105,8 +105,8 @@
 ]
     },
       {
-      "name": "Amoled Floral Wallpaper",
-      "description": "Divine and spiritual wallpapers",
+      "name": "Floral Wallpaper",
+      "description": "Plant and floral wallpapers with deep blacks",
        "imageUrl":
           "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=300&fit=crop",
       "gradient": "[Color(0xFF667eea), Color(0xFF764ba2)]",
